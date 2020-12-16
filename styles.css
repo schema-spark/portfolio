@@ -182,22 +182,22 @@ button {
 }
 
 .card-title {
-    text-align: left;
+    text-align: center;
 }
 
 #deck1 {
     margin-top: 5%;
-    float: left;
+    float: center;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 0%;
     padding: 8%;
 
 }
 
 #deck2 {
-    margin-top: -25%;
-    float: left;
+    margin-top: -15%;
+    float: center;
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 5%;
