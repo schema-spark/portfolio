@@ -23,6 +23,11 @@ a {
     color: white;
 }
 
+#linked {
+    color: rgb(37, 99, 197) !important;
+
+}
+
 #aboutMe {
     background-image:url('assets/aboutMe.jpg');
     left: auto;
