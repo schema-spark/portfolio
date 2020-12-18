@@ -69,7 +69,6 @@ h4 {
 
 li {
     color: rgb(37, 99, 197) !important;
-
 }
 
 ol {
@@ -79,8 +78,14 @@ ol {
 p2 {
     color: rgb(37, 99, 197) !important;
     font-weight: bold;
-
 }
+p3 {
+    color: rgb(256, 0, 140) !important;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+
 h3 {
     font-weight: bold;
     font-size: 24px;
