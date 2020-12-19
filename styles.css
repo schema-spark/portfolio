@@ -83,6 +83,8 @@ p3 {
     color: rgb(256, 0, 140) !important;
     font-weight: bold;
     font-size: 14pt;
+    align-items: right;
+    margin-left: 40%;
 }
 
 
